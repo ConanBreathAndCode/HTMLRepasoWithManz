@@ -14,7 +14,8 @@ el símbolo virgulilla ~ se hace utiliza pulsando Alt + 126 (bloq Num)
 
 <!-- Destacar fragmentos de texto, crear subíndices y crear superíndices -->
 
-Frase destacada: ==Texto destacado==
+Frase destacada: <mark>Texto en destacado</mark>
 Subscript: H<sub>2</sub>0
 
 SuperScript: x<sup>2</sup>
+
